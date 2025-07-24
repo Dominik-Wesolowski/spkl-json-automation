@@ -85,6 +85,6 @@ Project structure with a clear JS root and spkl.json present
 
 ### Disclaimer
 
-This repository contains automation only — no credentials, no connection strings, and no customer data.
+This repository contains automation only - no credentials, no connection strings, and no customer data.
 Open source, MIT License.
 Feedback and pull requests welcome!
