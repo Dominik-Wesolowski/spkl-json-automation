@@ -13,7 +13,7 @@ Perfect for teams and CI/CD pipelines working with large solutions or TypeScript
 - **Flexible naming conventions:** Easy to adjust resource prefix, folder structure, and minified output mode.
 - **Prevents accidental deploy:** If no relevant changes are found, the script clears the `"files"` array to avoid pushing stale or unwanted files.
 - **Bundled helpers:** Supports custom mapping for merged/bundled files (e.g. `helper-metadata.js`).
-- **No CRM credentials required:** Pure config and automation—safe for public use.
+- **No CRM credentials required:** Pure config and automation-safe for public use.
 
 ---
 
