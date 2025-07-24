@@ -29,7 +29,7 @@ Perfect for teams and CI/CD pipelines working with large solutions or TypeScript
 2. The script:
   - Looks for changed .ts files (using git diff and git log).
   - Maps each to the corresponding JS or minified JS file.
-  - Applies naming conventions (e.g. prefix sha_).
+  - Applies naming conventions (e.g. prefix xyz_).
   - Updates only the "files" section of your spkl.json.
 
 3. Deploy using spkl:
